@@ -1,0 +1,29 @@
+/* Heading -> Red */
+.colorDanger{
+    color: #d9534f;
+    transition: 0.5s;
+}
+
+
+.btn-danger{
+    transition: 0.5s;
+}
+
+/*buttons. hover effect with slow transition */
+.btn-danger:hover{
+    transform: scale(1.2)
+}
+
+/*Track name. Increase font size and min container height for allignment purposes */
+.name{
+    min-height: 71px;
+    font-size: 1.3em;
+}
+
+
+/*Artist name. Increase font weight and min container height for allignment purposes */
+.artist{
+    min-height: 50px;
+    font-weight: bold;
+}
+

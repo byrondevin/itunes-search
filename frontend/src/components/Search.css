@@ -1,0 +1,27 @@
+/* The search, results and favourites modules take up at least the full screen height */
+.Search{
+    min-height: 100vh;
+}
+
+/* apple logo hover effect with slow transition */
+.appleIcon{
+    transition: 0.5s;
+}
+.appleIcon:hover{
+    transform: scale(1.2)
+}
+
+/* Red text colour. Used on headings */
+.colorDanger{
+    color: #d9534f;
+    
+}
+
+/* search button hover effect with slow transition */
+.btn-danger{
+    transition: 0.5s;
+}
+.btn-danger:hover{
+    transform: scale(1.2)
+}
+

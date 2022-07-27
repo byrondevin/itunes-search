@@ -31,3 +31,4 @@ The app can be used to find information about various media (songs, movies, etc.
 
 ## Credits
 Developed by Byron Devin from [Lost at Sea Marketing](http://lostatseamarketing.com)
+Data from itunes

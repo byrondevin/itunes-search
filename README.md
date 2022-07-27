@@ -1,5 +1,5 @@
 
-# Minesweeper React Game
+# iTunes Search
 
 ## Project Description
 
